@@ -1,0 +1,16 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-size: 3em;
+    text-align: center;
+}
+menu{
+    display: none;
+}
+p{
+    text-indent: 15px;
+}
+article::after{
+    content: "obrigado pela visita, volte sempre!";
+}
